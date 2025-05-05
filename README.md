@@ -1,7 +1,8 @@
-###  Macro manager is a macro app made using the windows api in c++, the project is currently in alpha and probably has alot of bugs.
+###  Overview
+Macro manager is a macro app made using the windows api in c++, the project is currently in alpha and probably has alot of bugs.
 
 
-Current feature are:
+Current features are:
   recording and playback of keypresses,
   assigning hotkeys to macros,
   saving/loading macros.
@@ -11,7 +12,7 @@ In the future i plan to improve the ui, add support for mouse clicks and movemen
 
 
 
-### to use:  
+### how to use:  
 
   Create a new macro  
 
